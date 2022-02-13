@@ -1,1 +1,1 @@
-Buat file hello di github dengan detail
+Hello world saja
